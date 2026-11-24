@@ -148,7 +148,7 @@
     "heroFacts": true,
     "heroWelcome": true,
     "heroPoem": true,
-    "heroMessage": true,
+    "heroMessage": false,
     "heroCelebrate": true,
     "heroScrollHint": true,
     "marquee": false,
