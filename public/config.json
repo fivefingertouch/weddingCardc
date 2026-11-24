@@ -1,0 +1,297 @@
+{
+  "version": 2,
+  "brideName": "ملیکا",
+  "groomName": "میلاد",
+  "brideFamily": "خانواده محترم هشته رودی",
+  "groomFamily": "خانواده محترم صادقی",
+  "ceremonyType": "جشن فرخنده عقد و آغاز زندگی مشترک",
+  "brandMark": "rings",
+  "monogram": "",
+  "dateSolar": "پنج‌شنبه، ۱۲ آذر ۱۴۰۵",
+  "dateGregorian": "3 December 2026",
+  "targetISODate": "2026-12-03T18:00:00",
+  "timezone": "+03:30",
+  "timeRange": "ساعت ۲۰:۰۰ الی ۲۳:۰۰",
+  "venueName": "سالن عقد شب های رویایی",
+  "venueAddress": "کرج، فاز ۱ گوهردشت، استقلال شمالی، بین هشتم و پلاک 59",
+  "city": "کرج",
+  "venueNote": "",
+  "latitude": "35.847355",
+  "longitude": "50.980398",
+  "showMap": true,
+  "venuePhoto": "images/venue.jpg",
+  "mapLinks": [
+    {
+      "id": "neshan",
+      "label": "نشان",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "balad",
+      "label": "بلد",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "google",
+      "label": "گوگل مپ",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "waze",
+      "label": "ویز",
+      "url": "",
+      "enabled": true
+    }
+  ],
+  "contactPhone": "09124635413",
+  "poem": "«وصال توست اگر دل را مرادی هست و مطلوبی / کنار توست اگر غم را کناری هست و پایانی»",
+  "poemPoet": "سعدی",
+  "invitationMessage": "حضور گرم و پرمهر شما در این بزم شادمانی، آغازگر پیوندمان با نور و برکت خواهد بود و خاطره این شب به یادماندنی را جاودانه خواهد کرد.",
+  "dressCodeTitle": "تم و پوشش پیشنهادی",
+  "dressCodeDescription": "به منظور هماهنگی و زیبایی هر چه بیشتر عکس‌های یادگاری، پالت رنگ‌های کرم، نباتی، پاستلی و سبز ملایم پیشنهاد می‌گردد.",
+  "dressCodeNote": "به احترام عروس خانم، لطفاً از پوشش کاملاً سفید پرهیز کنید.",
+  "dressCodeColors": [
+    "#F5EBE0",
+    "#D6CCC2",
+    "#E3D5CA",
+    "#CCD5AE",
+    "#E9EDC9"
+  ],
+  "tips": [
+    "مراسم دارای پارکینگ اختصاصی همراه با نگهبان می‌باشد.",
+    "سالن دارای فضای اختصاصی برای بازی و استراحت کودکان است.",
+    "لطفاً به دلیل برنامه‌ریزی پذیرایی و تشریفات، حضور یا عدم حضور خود را تا یک هفته پیش از مراسم ثبت فرمایید."
+  ],
+  "schedule": [
+    {
+      "time": "۱۸:۰۰",
+      "title": "پذیرش و خوش‌آمدگویی",
+      "description": "ورود میهمانان گرامی، پذیرایی چای و شیرینی بار",
+      "iconName": "door-open",
+      "id": "sch-0"
+    },
+    {
+      "time": "۱۹:۱۵",
+      "title": "آیین باشکوه خطبه عقد",
+      "description": "جاری شدن صیغه عقد در کنار سفره سنتی با عطر گلاب و اسپند",
+      "iconName": "ring",
+      "id": "sch-1"
+    },
+    {
+      "time": "۲۰:۳۰",
+      "title": "عکاسی یادگاری و شادباش",
+      "description": "ثبت لحظات شیرین در کنار عروس و داماد و پذیرایی کوکتل میوه",
+      "iconName": "camera",
+      "id": "sch-2"
+    },
+    {
+      "time": "۲۱:۳۰",
+      "title": "ضیافت مجلل شام",
+      "description": "پذیرایی شام سلف‌سرویس و بریدن کیک پیوند",
+      "iconName": "utensils",
+      "id": "sch-3"
+    },
+    {
+      "time": "۲۳:۰۰",
+      "title": "بدرقه میهمانان گرامی",
+      "description": "پایان مراسم با آرزوی روزهایی پر از شادی برای همگی",
+      "iconName": "sparkles",
+      "id": "sch-4"
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo-2",
+      "url": "images/MiladMelika.jpeg",
+      "caption": "سفرهٔ سپید عقد با عطر گل‌ها و نور آینه",
+      "alt": "سفرهٔ عقد با آینه و شمعدان"
+    },
+    {
+      "id": "photo-3",
+      "url": "images/rings.jpg",
+      "caption": "حلقهٔ زرین، نشان پیوند دو دل",
+      "alt": "حلقه و دست‌های در هم تنیدهٔ عروس و داماد"
+    },
+    {
+      "id": "photo-4",
+      "url": "images/venue.jpg",
+      "caption": "باغ عمارت در ضیافت نور و شادمانی",
+      "alt": "فضای نورانی باغ تالار مراسم"
+    }
+  ],
+  "rsvpWhatsapp": "989124635413",
+  "rsvpTelegram": "",
+  "rsvpEndpoint": "",
+  "rsvpPublicKey": "",
+  "rsvpPrivateKeyEnc": "",
+  "hostPasswordHash": "sha256:1babe40f2ada88e641c8423c3b8c02fa27f91b89df19f43a5934e5e20274c0c8",
+  "themeId": "spring-bloom",
+  "colorOverrides": {},
+  "fontPreset": "nastaliq",
+  "textSize": "normal",
+  "motionLevel": "full",
+  "effects": {
+    "envelope": true,
+    "confetti": true,
+    "petals": true,
+    "music": true
+  },
+  "parts": {
+    "topBar": true,
+    "musicButton": true,
+    "hero": true,
+    "footer": true,
+    "heroPortrait": true,
+    "heroFacts": true,
+    "heroWelcome": true,
+    "heroPoem": true,
+    "heroMessage": true,
+    "heroCelebrate": true,
+    "heroScrollHint": true,
+    "marquee": false,
+    "botanicals": true,
+    "flowerArc": true,
+    "aurora": true,
+    "waves": true,
+    "ornaments": true,
+    "scrollProgress": true,
+    "footerFlowers": true,
+    "venueCalendar": true,
+    "venueActions": true,
+    "rsvpCounts": true,
+    "rsvpMessageField": true,
+    "rsvpWall": true,
+    "footerButtons": true
+  },
+  "audioUrl": "audio/WhatsApp Audio 2026-11-22 at 22.37.00.mp3",
+  "sections": {
+    "countdown": {
+      "enabled": true,
+      "title": "لحظه‌شماری برای آغاز جشن",
+      "subtitle": "تا شروع مراسم این‌قدر مانده است.",
+      "navLabel": "شمارش معکوس"
+    },
+    "schedule": {
+      "enabled": false,
+      "title": "برنامهٔ مراسم",
+      "subtitle": "ترتیب لحظه‌های این شب، از ورود تا بدرقه.",
+      "navLabel": "برنامه"
+    },
+    "venue": {
+      "enabled": true,
+      "title": "نشانی و مسیریابی",
+      "subtitle": "مسیر را با برنامهٔ نقشهٔ دلخواهتان باز کنید.",
+      "navLabel": "مسیریابی"
+    },
+    "gallery": {
+      "enabled": false,
+      "title": "قاب‌هایی از ما",
+      "subtitle": "گوشه‌ای از روزهای عاشقی.",
+      "navLabel": "آلبوم"
+    },
+    "guestAlbum": {
+      "enabled": true,
+      "title": "عکس‌های شما، یادگارهای ما",
+      "subtitle": "هر عکسی که در مراسم می‌گیرید همین‌جا بگذارید. فقط شما و میزبان آن را می‌بینید.",
+      "navLabel": "عکس مهمانان"
+    },
+    "dress": {
+      "enabled": false,
+      "title": "پوشش و نکته‌های مراسم",
+      "subtitle": "",
+      "navLabel": "پوشش"
+    },
+    "rsvp": {
+      "enabled": true,
+      "title": "اعلام حضور",
+      "subtitle": "لطفاً تا یک هفته پیش از مراسم پاسخ خود را بفرستید.",
+      "navLabel": "اعلام حضور"
+    }
+  },
+  "sectionOrder": [
+    "countdown",
+    "schedule",
+    "venue",
+    "gallery",
+    "guestAlbum",
+    "dress",
+    "rsvp"
+  ],
+  "texts": {
+    "gateLabel": "دعوت‌نامه اختصاصی مراسم عقد",
+    "gateGreeting": "با نهایت احترام، تقدیم به",
+    "gateFallbackGuest": "میهمان گران‌قدر",
+    "gateButton": "لمس کنید تا دعوت‌نامه باز شود",
+    "gateMusicHint": "همراه با نوای موسیقی",
+    "gateSkip": "ورود مستقیم",
+    "letterTitle": "دعوت‌نامه",
+    "letterFooter": "با مهر و عشق تقدیم می‌شود",
+    "heroWelcomeGuest": "{guest} ارجمند",
+    "heroWelcomeDefault": "میهمانان گران‌قدر و ارجمند",
+    "heroWelcomeText": "حضور پرمهر و صمیمانهٔ شما در این بزم فرخنده، رونق‌بخش محفل ما و یادگاری ماندگار در دفتر عشق و خاطراتمان خواهد بود.",
+    "hostedBy": "به میزبانی",
+    "factDate": "روز پیوند",
+    "factTime": "ساعت حضور",
+    "factPlace": "نشانی بزم",
+    "celebrateButton": "بارش شادباش",
+    "scrollHint": "ادامه دعوت‌نامه",
+    "countdownPast": "این پیوند آسمانی جاری گشت و آغازگر روزهایی سرشار از شادمانی شد!",
+    "unitDays": "روز",
+    "unitHours": "ساعت",
+    "unitMinutes": "دقیقه",
+    "unitSeconds": "ثانیه",
+    "venueAddressTitle": "نشانی کامل",
+    "venueNavTitle": "مسیریابی با برنامهٔ دلخواه شما",
+    "venueCalendarTitle": "یادآوری این روز در تقویم شما",
+    "calendarFile": "فایل تقویم",
+    "calendarGoogle": "تقویم گوگل",
+    "copyAddress": "کپی نشانی",
+    "copiedAddress": "نشانی کپی شد",
+    "callHost": "تماس با تشریفات",
+    "galleryHint": "عکس‌های خودتان از مراسم را در آلبوم مهمانان به اشتراک بگذارید.",
+    "dressPaletteTitle": "رنگ‌های هماهنگ برای عکس‌های یادگاری",
+    "tipsTitle": "نکته‌هایی برای رفاه شما",
+    "coordinationLabel": "هماهنگی و تشریفات",
+    "rsvpNameLabel": "نام و نام خانوادگی",
+    "rsvpNamePlaceholder": "مثال: خانوادهٔ محترم رضایی",
+    "rsvpYes": "با کمال میل حضور می‌یابم",
+    "rsvpNo": "امکان حضور ندارم",
+    "rsvpAdults": "تعداد بزرگسالان",
+    "rsvpChildren": "تعداد کودکان",
+    "rsvpMessageLabel": "پیام تبریک برای عروس و داماد",
+    "rsvpMessagePlaceholder": "آرزوی قشنگتان را اینجا بنویسید…",
+    "rsvpSubmit": "ثبت پاسخ",
+    "rsvpThanksTitle": "پاسخ شما ثبت شد",
+    "rsvpThanksText": "سپاسگزاریم. برای اینکه میزبان‌ها پاسخ را ببینند، آن را با یکی از راه‌های زیر برایشان بفرستید.",
+    "rsvpSendTitle": "ارسال پاسخ برای میزبان",
+    "rsvpRelaySending": "در حال ارسال به میزبان…",
+    "rsvpRelaySent": "پاسخ شما برای میزبان ارسال شد. ممنونیم!",
+    "rsvpRelayFailed": "ارسال خودکار انجام نشد؛ لطفاً با یکی از راه‌های زیر بفرستید.",
+    "rsvpWallTitle": "پیام‌هایی که روی این دستگاه ثبت شده",
+    "footerLine1": "مشتاقانه چشم‌انتظار",
+    "footerLine2": "قدوم پرمهرتان هستیم",
+    "footerText": "حضور پر از صفای شما، زیباترین هدیه‌ای است که در آغاز این سفر می‌توانیم دریافت کنیم.",
+    "footerReopen": "دیدن دوبارهٔ پاکت",
+    "footerShare": "فرستادن دعوت‌نامه",
+    "footerCredit": "کارت دعوت دیجیتال مراسم عقد",
+    "hostLogin": "ورود میزبان",
+    "navHome": "آغاز",
+    "albumTitleGuest": "عکس‌های خود را به آلبوم ما اضافه کنید",
+    "albumTextGuest": "هر عکسی که در مراسم می‌گیرید از همین صفحه بارگذاری کنید. این آلبوم فقط برای شما و میزبان قابل دیدن است.",
+    "albumTitleHost": "عکس‌های میزبان را اضافه کنید",
+    "albumTextHost": "عکس‌های خودتان از مراسم را اینجا بگذارید؛ در فهرست زیر کنار عکس‌های مهمانان دیده می‌شوند.",
+    "albumPick": "انتخاب عکس از گالری",
+    "albumEmptyTitle": "هنوز قابی در این آلبوم نیست",
+    "rsvpMsgYes": "سلام و احترام؛ من {name} در مراسم {couple} حضور خواهم داشت؛ {guests}.",
+    "rsvpMsgNo": "سلام و احترام؛ من {name} متأسفانه امکان حضور در مراسم {couple} را ندارم."
+  },
+  "music": {
+    "enabled": true,
+    "src": "",
+    "volume": 0.62,
+    "title": "نوکتورن شوپن"
+  }
+}
