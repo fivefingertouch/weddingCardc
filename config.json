@@ -147,6 +147,7 @@
     "heroPortrait": true,
     "heroFacts": true,
     "heroWelcome": true,
+    "heroWelcomeName": false,
     "heroPoem": true,
     "heroMessage": false,
     "heroCelebrate": true,
