@@ -146,7 +146,7 @@
     "footer": true,
     "heroPortrait": true,
     "heroFacts": true,
-    "heroWelcome": true,
+    "heroWelcome": false,
     "heroPoem": true,
     "heroMessage": false,
     "heroCelebrate": true,
