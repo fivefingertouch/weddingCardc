@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "guests": [
+    { "id": "guest-001", "name": "فاطمه و بهنود", "phone": "989304108987", "sent": false },
+    { "id": "guest-002", "name": "عارفه و اردوان", "phone": "989124666838", "sent": false },
+    { "id": "guest-003", "name": "محدثه و محمد", "phone": "989124690722", "sent": false },
+    { "id": "guest-004", "name": "سحر و محسن", "phone": "989177524094", "sent": false },
+    { "id": "guest-005", "name": "کتایون و آریانا", "phone": "989121484891", "sent": false },
+    { "id": "guest-006", "name": "هدیه و مهدی", "phone": "989338383119", "sent": false },
+    { "id": "guest-007", "name": "نگین و حسین( عربگری)", "phone": "989127675365", "sent": false },
+    { "id": "guest-008", "name": "علیرضا", "phone": "989919141252", "sent": false },
+    { "id": "guest-009", "name": "حمید", "phone": "989126612293", "sent": false },
+    { "id": "guest-010", "name": "امیرحسین(خانواده عبداللهی)", "phone": "989126168276", "sent": false },
+    { "id": "guest-011", "name": "حدیث و جعفر", "phone": "989380427899", "sent": false },
+    { "id": "guest-012", "name": "صدف و شهرام", "phone": "989360119099", "sent": false },
+    { "id": "guest-013", "name": "سارا", "phone": "989364291347", "sent": false },
+    { "id": "guest-014", "name": "علیرضا و مرجان", "phone": "989127669390", "sent": false },
+    { "id": "guest-015", "name": "پریسا و حسین", "phone": "989121509217", "sent": false },
+    { "id": "guest-016", "name": "پریسا و مهران", "phone": "989123614808", "sent": false },
+    { "id": "guest-017", "name": "پدر عزیزم(ملیکا)", "phone": "989194109110", "sent": false },
+    { "id": "guest-018", "name": "مادر عزیزم( ملیکا)", "phone": "989120068299", "sent": false },
+    { "id": "guest-019", "name": "پدر و مادر عزیزم", "phone": "989195528569", "sent": false },
+    { "id": "guest-020", "name": "خودمون 2", "phone": "", "sent": false },
+    { "id": "guest-021", "name": "فیلم بردار 2", "phone": "", "sent": false },
+    { "id": "guest-022", "name": "دیجی", "phone": "", "sent": false }
+  ],
+  "template": "سلام {name} عزیز 🌿\nبا افتخار شما را به مراسم {couple} در تاریخ {date} دعوت می‌کنیم.\nکارت دعوت اختصاصی شما:\n{link}",
+  "base": "https://fivefingertouch.github.io/weddingCardc/"
+}
