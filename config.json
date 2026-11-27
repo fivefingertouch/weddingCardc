@@ -161,7 +161,7 @@
     "ornaments": true,
     "scrollProgress": true,
     "footerFlowers": true,
-    "venueCalendar": true,
+    "venueCalendar": false,
     "venueActions": true,
     "rsvpCounts": true,
     "rsvpMessageField": true,
